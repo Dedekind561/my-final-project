@@ -1,0 +1,191 @@
+
+h1 {
+
+padding-top: 150px;
+font-family: 'Righteous', cursive;
+
+}
+
+h2 {
+
+font-family: 'Righteous', cursive;
+color: white;
+
+}
+
+header {
+
+background-color: white;
+height: 55px;
+
+}
+
+
+h3 {
+
+  font-family: 'Righteous', cursive;
+  margin-left: 40px;
+  margin-top: 25px;
+  font-weight: bold;
+  font-size: 33px
+}
+
+nav {
+
+  position: absolute; top: 20px; left: 750px;
+  width: 520px;
+  padding: 10px 10px 10px 10px;
+}
+
+h5 {
+
+  display: inline;
+  font-family: 'Righteous', cursive;
+  margin-left: 60px;
+  border: 2px solid black;
+  padding: 5px;
+}
+
+table {
+
+  border-collapse: separate;
+  border-spacing: 30px 0;
+  position: absolute; right: 100px; top: 300px;
+  color: white;
+  font-family: 'Righteous', cursive;
+  font-size: 20px;
+
+
+}
+
+td {
+
+  margin-left: 15px;
+  border: 3px bold limeGreen;
+  padding: 10px 0;
+
+}
+
+td:hover {
+
+  color: darkBlue;
+
+}
+
+h5:hover {
+
+  display: inline;
+  font-family: 'Righteous', cursive;
+  margin-left: 60px;
+  border: 2px solid gray;
+  padding: 5px;
+  color: darkBlue;
+  background-color: lightGray;
+}
+
+
+.parallax {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+
+
+#first-strip .parallax {
+   background-image: url("http://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2009/10/its-a-wonderful-life-3.jpg");
+   height: 700px;
+}
+
+#first-strip h1 {
+
+  font-size: 90px;
+  color: white;
+  position: absolute; left: 75px; top: 90px;
+  width: 250px;
+  height:200px;
+
+}
+
+#first-strip h2 {
+
+  position: absolute; right: 300px; top: 100px;
+  font-size: 35px;
+
+}
+
+#first-strip h3 {
+
+  position: absolute; right: 180px; top: 150px;
+  font-size: 40px;
+  color: white;
+
+}
+
+
+#second-strip .parallax {
+   background-image: url("https://www.theyoungfolks.com/wp-content/uploads/2014/08/wizard-of-oz-original1.jpg");
+   height: 550px;
+}
+
+#second-strip h1 {
+
+  font-size: 90px;
+  color: white;
+  position: absolute; left: 75px; top: 640px;
+  width: 250px;
+  height:200px;
+
+}
+
+#third-strip .parallax {
+   background-color: white;
+   height: 800px;
+}
+
+
+#third-strip h2 {
+
+  font-size: 60px;
+  color: darkBlue;
+  position: absolute; left: 480px; top: 1350px;
+  width: 360px;
+  height:80px;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  text-align: center;
+  padding-top: 4px;
+
+}
+
+#fourth-strip .parallax {
+   background-image: url("https://wecanthearthemime.files.wordpress.com/2013/11/shaky-camera-in-american-beauty-1.png");
+   height: 550px;
+}
+
+#fifth-strip .parallax {
+  background-color: white;
+  height: 500px;
+}
+
+#sixth-strip .parallax {
+  background-image: url("https://video-images.vice.com/_uncategorized/1489721061795-there-will-be-blood-opening.jpeg");
+  height: 500px;
+}
+
+#seventh-strip .parallax {
+  background-color: white;
+  height: 500px;
+}
+
+#eighth-strip .parallax {
+  background-image: url("https://www.incimages.com/uploaded_files/image/1940x900/when-harry-met-sally-1940x900_35829.jpg");
+  height: 500px;
+}
+
+#ninth-strip .parallax {
+  background-color: white;
+  height: 500px;
+}
